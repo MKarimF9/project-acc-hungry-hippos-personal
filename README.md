@@ -78,7 +78,7 @@ npm run dev
 - Game ends after time or round limit.
 
 
-## 🧠 Conceptual Design
+##  Conceptual Design
 
 ### Architecture
 
@@ -124,7 +124,7 @@ To successfully develop this project, the following technical competencies and b
 - **Real-Time Communication (optional)**
   - WebSocket or similar methods for multiplayer or remote setups (advanced/optional).
  
-### 💻 Software Resources
+###  Software Resources
 
 | Resource            | Purpose                                        | Notes                      |
 |---------------------|------------------------------------------------|----------------------------|
@@ -139,7 +139,7 @@ To successfully develop this project, the following technical competencies and b
 | **Vite**            | Fast development server and bundler            | Recommended over CRA       |
 | **Visual Studio Code** | Code editor                                 | Recommended                |
 
-### 🖥 Hardware Resources
+###  Hardware Resources
 
 | Device                    | Use                                             | Required? |
 |---------------------------|--------------------------------------------------|-----------|
