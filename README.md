@@ -269,7 +269,7 @@ yarn start
 <tr>
     <td align="center">
         <a href="https://github.com/tun67213">
-            <img src="https://avatars.githubusercontent.com/u/122761457?v=4" width="100;" alt="ArvindhVelrajan"/>
+            <img src="https://www.gravatar.com/avatar/?d=mp&s=200" width="100;" alt="ArvindhVelrajan"/>
             <br />
             <sub><b>Arvindh Velrajan</b></sub>
         </a>
