@@ -7,6 +7,9 @@
 [![Documentation Website Link](https://img.shields.io/badge/-Documentation%20Website-brightgreen)](https://applebaumian.github.io/tu-cis-4398-docs-template/)
 
 
+
+![Gameplay Demo](https://github.com/MKarimF9/project-acc-hungry-hippos-personal/blob/066bfebda6f3b817244804a9ba51103068510822/Demo.gif)
+
 </div>
 
 ## Table of Contents
